@@ -1,7 +1,10 @@
 package com.example.i_comit;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 
+import com.example.i_comit.ui.home.about_us;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -32,6 +35,15 @@ public class MainActivity extends AppCompatActivity {
         NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment_activity_main);
         NavigationUI.setupActionBarWithNavController(this, navController, appBarConfiguration);
         NavigationUI.setupWithNavController(binding.navView, navController);
+    }
+
+//    public void pindah (View view){
+//        Intent intent = new Intent(MainActivity.this, deskripsi.class);
+//        startActivity(intent);
+//    }
+    public void move (View view){
+        Intent intent = new Intent(MainActivity.this, about_us.class);
+        startActivity(intent);
     }
 
 }

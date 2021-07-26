@@ -4,5 +4,36 @@
     <string name="title_dashboard">Search</string>
     <string name="title_notifications">FAQ</string>
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_home_fragment">Hello blank fragment</string>
+    <string name="hello_dashboard_fragment">Menu Pencarian</string>
+    <string name="hello_notifications_fragment">Hello blank fragment</string>
+    <string name="komunitas_name">komunitas_name</string>
+    <string name="komunitas_detail">komunitas_detail</string>
+    <string name="keterangan">Silahkan masukkan nama provinsi dan nama kabupaten/kota yang anda cari</string>
+    <string name="desc1">ICOMIT adalah sebuah website yang menyediakan layanan pengembangan SDM di bidang IT. Melalui website ini kita bisa menjangkau lebih luas komunitas IT diluar sana. Sehingga akan terjalin relasi yang lebih kuat dan intens.</string>
+    <string name="desc2">Sumber daya manusia merupakan salah satu faktor kunci dalam menghadapi perkembangan teknologi digital. Oleh karena itu, kita harus menyokong sistem yang mampu menciptakan SDM yang berkualitas dan memiliki keterampilan serta berdaya saing tinggi dalam persaingan global.</string>
+
+    <string name="faq">QNA Untuk User Public
+1. Bagaimana cara menemukan komunitas ?
+Pada halaman landing page klik "Komunitas" pada navbar. Kemudian masukkan nama provinsi dan nama kabupaten yang anda inginkan. Lalu klik tombol "search". Maka akan muncul list komunitas sesuai zonasi yang diinputkan.
+
+2. Bagaimana cara untuk join ke komunitas yang diinginkan ?
+Setelah anda menemukan komunitas yang diinginkan. Klik "View Detail" kemudian klik link sosial media yang dimiliki komunitas tersebut.
+
+
+QNA Untuk Admin Komunitas
+1. Bagaimana cara menjadi admin sebuah komunitas ?
+Pastikan anda memiliki sebuah komunitas yang aktif. Kemudian daftarkan komunitas anda di website ini.
+
+2. Bagaimana cara mendaftarkan sebuah komunitas ?
+a. Pastikan komunitas anda belum terdaftar sebelumnya
+b. Pada menu akun pilih "Daftar"
+c. Isi form dengan benar kemudian "daftar"
+d. Tunggu verifikasi dari admin website
+e. Jika sudah terverifikasi, akun anda siap digunakan
+
+3. Sudah terdaftar tapi tidak muncul di list?
+a. Setelah anda mendaftar data anda akan diverifikasi terlebih dahulu
+b. Setelah data komunitas anda di nyatakan valid maka admin website akan menyampaikan informasi kepada anda
+c. Jika data tidak valid maka data anda akan dihapus</string>
 </resources>
